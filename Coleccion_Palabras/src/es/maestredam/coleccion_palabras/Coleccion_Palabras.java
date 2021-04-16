@@ -4,7 +4,7 @@ import java.util.Arrays;
 /**
  * Clase para crear objetos ColeccionPalabras, que contengan un
  * conjunto de cadenas, con un máximo.
- * @author David
+ * @author David Chico Molina
  *
  */
 
